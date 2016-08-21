@@ -56,7 +56,7 @@ var l_bgImages = [
 	"backgrounds/images/4.jpg",
 	"backgrounds/images/5.jpg",
 	"backgrounds/images/6.jpg",
-	"backgrounds/images/7.jpg",
+	"backgrounds/images/7.jpg"
 ];
 
 /*Random background images order?*/
@@ -96,7 +96,7 @@ var l_musicPlaylist = [
 	{youtube: "GFQYaoiIFh8", name: "Demons - Imagine Dragons"},
 	{youtube: "VdHAgXsiqR4", name: "DIA 다이아 - 그 길에서 (On the road)"},
 	{youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
-	{youtube: "2B50RUXbs-8", name: "Rihanna - Love The Way You Lie (Part 2)"},
+	{youtube: "2B50RUXbs-8", name: "Rihanna - Love The Way You Lie (Part 2)"}
 ];
 
 /*Random music order?*/
@@ -104,7 +104,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 100;
+var l_musicVolume = 50;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -125,7 +125,7 @@ var l_messages = [
 "로딩시간이 기니깐 할 말들 생각해보세요 면접을 보거든요ㅎㅎ",
 "서버에 들어오면 부대원에 지시에 따라 움직여주세요!!",
 "로딩화면 만드는법은 안알려줄꺼에요ㅋㅋ",
-"노래들좀 추천해주세요!!",
+"노래들좀 추천해주세요!!"
 ];
 
 /*Random message order?*/
