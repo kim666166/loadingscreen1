@@ -52,6 +52,7 @@ Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/1.jpg",
 	"backgrounds/images/2.jpg",
+	"backgrounds/images/3.jpg",
 	"backgrounds/images/4.jpg",
 	"backgrounds/images/5.jpg",
 	"backgrounds/images/6.jpg",
@@ -116,7 +117,7 @@ var l_messages = [
 "12세이하는 출입금지!",
 "이것이 우리부대의 자랑거리인 로딩화면입니다ㅎ",
 "만든사람이 누구냐고요? 저에요 저!!",
-"여러분이 생각하시는 엄격한 부대가 아닙니다. 제가 좀 병ㅅ..퍽 같아서죠.",
+"여러분이 생각하시는 엄격한 부대가 아닙니다. 제가 좀 병ㅅ..퍽",
 "신병분이나 타부대원들께서는 들어와서 가만히좀 계세요.. 부대원들이 힘들어한답니다..",
 "이거 만드느라 힘들어 죽는줄 알았습니다.",
 "음 규칙이요? 차량 마음대로 소환ㄴㄴ",
